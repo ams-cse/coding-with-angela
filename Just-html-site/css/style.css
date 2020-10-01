@@ -1,0 +1,31 @@
+/*    Headers font style*/
+    @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+/*    Others font style*/
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap');
+/*    @import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@300&display=swap');    */
+    
+    body {
+        background-color: #ebebeb;
+/*        font-family: 'Grandstander', cursive;*/
+        font-family: 'Fira Sans Condensed', sans-serif;
+        font-size: 16px;
+    }
+
+    h1,h3 {
+        font-family: 'Bree Serif', serif;
+        color: #3a5160;
+        
+    }
+    hr {
+        height: 0px;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: #959595;
+        border-width: 8px;
+        width: 8%;
+    }
+    
+    .checked {
+      color: orange;
+    }
+    
